@@ -12,6 +12,7 @@
 		044463C61E4DEF0300DB785E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044463C41E4DEF0300DB785E /* Main.storyboard */; };
 		044463C81E4DEF0300DB785E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044463C71E4DEF0300DB785E /* Assets.xcassets */; };
 		044463CB1E4DEF0300DB785E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044463C91E4DEF0300DB785E /* LaunchScreen.storyboard */; };
+		044463D31E516BEB00DB785E /* minecrafter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 044463D21E516BEB00DB785E /* minecrafter.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		044463C71E4DEF0300DB785E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		044463CA1E4DEF0300DB785E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		044463CC1E4DEF0300DB785E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		044463D21E516BEB00DB785E /* minecrafter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = minecrafter.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		044463BF1E4DEF0300DB785E /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				044463D21E516BEB00DB785E /* minecrafter.ttf */,
 				044463C01E4DEF0300DB785E /* AppDelegate.swift */,
 				044463C21E4DEF0300DB785E /* ViewController.swift */,
 				044463C41E4DEF0300DB785E /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				044463CB1E4DEF0300DB785E /* LaunchScreen.storyboard in Resources */,
 				044463C81E4DEF0300DB785E /* Assets.xcassets in Resources */,
 				044463C61E4DEF0300DB785E /* Main.storyboard in Resources */,
+				044463D31E516BEB00DB785E /* minecrafter.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
